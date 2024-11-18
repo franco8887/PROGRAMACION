@@ -1,7 +1,7 @@
 const productImages = [
-  "https://via.placeholder.com/150/0000FF/808080?text=Producto+1",
-  "https://via.placeholder.com/150/FF0000/FFFFFF?text=Producto+2",
-  "https://via.placeholder.com/150/FFFF00/000000?text=Producto+3",
+  "1.jpg",
+  "2.jpg",
+  "4.jpg",
   // Añade más URLs de imágenes aquí
 ];
 
